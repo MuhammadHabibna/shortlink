@@ -1,0 +1,16 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://www.dicoding.com/pijak/registration?ref=4086292",
+      "permanent": false
+    },
+    {
+      "source": "/dicoding",
+      "destination": "https://www.dicoding.com/pijak/registration?ref=4086292",
+      "permanent": false
+    }
+  ]
+}
